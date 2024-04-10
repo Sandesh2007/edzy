@@ -25,5 +25,12 @@ To install `edzy`, you can follow these steps:
     ```bash
     sudo python3 install.py
     ```
+    This will install the `edzy` package on your system.
+    
+4. To run edzy :
 
-This will install the `edzy` package on your system.
+    ```bash
+    edzy
+    ```
+
+
