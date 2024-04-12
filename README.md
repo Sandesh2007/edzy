@@ -6,7 +6,7 @@
 ## requires latest java jdk-22
  You can also run manually by :
   ```bash
-  java -jar --enable-preview edzy.jar
+  java -jar --enable-preview Edzy.jar
   ```
 
 ## Installation
