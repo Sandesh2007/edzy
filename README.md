@@ -8,6 +8,7 @@
   ```bash
   java -jar --enable-preview Edzy.jar
   ```
+If you have jdk-22 installed you can just run the install script 
 
 ## Installation
 
