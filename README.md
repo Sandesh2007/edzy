@@ -3,6 +3,11 @@
 
 ![Screenshot](https://github.com/Sandesh2007/edzy/blob/main/Screenshot%20edzy.png)
 
+## requires latest java jdk-22
+ You can also run manually by :
+  ```bash
+  java -jar --enable-preview edzy.jar
+  ```
 
 ## Installation
 
