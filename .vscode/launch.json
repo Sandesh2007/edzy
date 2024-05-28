@@ -1,0 +1,87 @@
+// {
+//     // Use IntelliSense to learn about possible attributes.
+//     // Hover to view descriptions of existing attributes.
+//     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+//     "version": "0.2.0",
+//     "configurations": [
+//         {
+//             "type": "java",
+//             "name": "Current File",
+//             "request": "launch",
+//             "mainClass": "${file}"
+//         },
+//         {
+//             "type": "java",
+//             "name": "Debian",
+//             "request": "launch",
+//             "mainClass": "com.edzy/com.edzy.Debian",
+//             "projectName": "edzy"
+//         },
+//         {
+//             "type": "java",
+//             "name": "Fedora",
+//             "request": "launch",
+//             "mainClass": "com.edzy/com.edzy.Fedora",
+//             "projectName": "edzy"
+//         },
+//         {
+//             "type": "java",
+//             "name": "Initial",
+//             "request": "launch",
+//             "mainClass": "com.edzy/com.edzy.Initial",
+//             "projectName": "edzy"
+//         }
+//     ]
+// }
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.edzy/com.edzy.Main",
+            "projectName": "edzy"
+        },
+        {
+            "type": "java",
+            "name": "Initial",
+            "request": "launch",
+            "mainClass": "com.edzy/com.edzy.Initial",
+            "projectName": "edzy"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debian",
+            "request": "launch",
+            "mainClass": "com.edzy.Debian",
+            "projectName": "edzy",
+            "vmArgs": "--module-path /opt/javafx-sdk-22/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Fedora",
+            "request": "launch",
+            "mainClass": "com.edzy.Fedora",
+            "projectName": "edzy",
+            "vmArgs": "--module-path /opt/javafx-sdk-22/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Initial",
+            "request": "launch",
+            "mainClass": "com.edzy.Initial",
+            "projectName": "edzy",
+            "vmArgs": "--module-path /opt/javafx-sdk-22/lib --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
