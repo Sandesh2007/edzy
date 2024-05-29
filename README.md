@@ -47,11 +47,11 @@ Edzy is a user-friendly application designed for efficient package installation 
 Contributions are welcome! Please fork the repository and submit pull requests.
 
 ### License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Apache License, Version 2.0 - see the LICENSE file for details.
+
 
 ### Acknowledgments
 - Inspired by eddy
-- Thanks to the JavaFX and Java communities for their valuable resources and support.
 
 ## TODO 
 
