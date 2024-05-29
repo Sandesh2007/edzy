@@ -14,10 +14,9 @@ Edzy is a user-friendly application designed for efficient package installation 
 ## Getting Started
 
 ### Prerequisites
-- Java Development Kit (JDK) installed on your system.
-- JavaFX SDK (if not bundled with your JDK).
+- Java Development Kit (JDK) 17 or newer installed on your system.
 
-### Installation
+### Installation on Debian/Fedora
 
 **Make sure you have java-jdk installed on your system** 
 
@@ -31,3 +30,4 @@ Edzy is a user-friendly application designed for efficient package installation 
     java -jar edzy.jar 
 
 `You may get some warning. Don't worry it is normal`
+
