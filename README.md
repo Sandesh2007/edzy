@@ -1,5 +1,9 @@
-# Edzy
+<div>
+  <h1 align="center">Eddy</h1>
+  <h3 align="center">A debian and rpm pacakge installer</h3>
+</div>
 
+<br/>
 ## Overview
 Edzy is a user-friendly application designed for efficient package installation on Debian and Fedora-based distributions. The application boasts an improved user interface using JavaFX, providing a more modern and intuitive experience compared to the previous version (v1.0), which was built using Java Swing.
 
