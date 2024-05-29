@@ -9,8 +9,14 @@ Edzy is a user-friendly application designed for efficient package installation 
 - **Inspired by Addy Popos**: The design and functionality are inspired by the popular Addy Popos tool.
 
 ## Screenshot
-![Edzy Screenshot](path_to_screenshot)
+### Main Window:
+![Main window](/home/sandesh/Pictures/Screenshots/Main.png)
 
+### Debian:
+![Debian](/home/sandesh/Pictures/Screenshots/Debian.png)
+
+### Fedora:
+![Fedora](/home/sandesh/Pictures/Screenshots/Fedora.png)
 ## Getting Started
 
 ### Prerequisites
