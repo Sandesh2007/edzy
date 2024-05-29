@@ -52,3 +52,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ### Acknowledgments
 - Inspired by eddy
 - Thanks to the JavaFX and Java communities for their valuable resources and support.
+
+## TODO 
+
+- List installed `deb` or `rpm` package 
