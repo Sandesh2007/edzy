@@ -13,10 +13,10 @@ Edzy is a user-friendly application designed for efficient package installation 
 ![Screenshot](https://github.com/Sandesh2007/edzy/blob/main/Screenshots/Main.png)
 
 ### Debian:
-![Debian](/home/sandesh/Pictures/Screenshots/Debian.png)
+![Screenshot](https://github.com/Sandesh2007/edzy/blob/main/Screenshots/Debian.png)
 
 ### Fedora:
-![Fedora](/home/sandesh/Pictures/Screenshots/Fedora.png)
+![Screenshot](https://github.com/Sandesh2007/edzy/blob/main/Screenshots/Fedora.png)
 
 ## Getting Started
 
