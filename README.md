@@ -1,44 +1,33 @@
-<!-- # edzy
- edzy: A Java-based Debian file installer inspired by Pop!_OS's Eddy. Simplify .deb file installations on Debian-based systems with an intuitive graphical interface. Version 0.1 now available, stay tuned for upcoming features!
+# Edzy
 
-![Screenshot](https://github.com/Sandesh2007/edzy/blob/main/Screenshot%20edzy.png)
+## Overview
+Edzy is a user-friendly application designed for efficient package installation on Debian and Fedora-based distributions. The application boasts an improved user interface using JavaFX, providing a more modern and intuitive experience compared to the previous version (v1.0), which was built using Java Swing.
 
-## requires latest java jdk-22
- You can also run manually by :
-  ```bash
-  java -jar --enable-preview Edzy.jar
-  ```
-If you have jdk-22 installed you can just run the install script 
+## Features
+- **Modern UI**: Built with JavaFX for a smoother and more responsive user interface.
+- **Package Installation**: Easily install `.deb` and `.rpm` packages on Debian and Fedora-based distributions.
+- **Inspired by Addy Popos**: The design and functionality are inspired by the popular Addy Popos tool.
 
-## Installation
+## Screenshot
+![Edzy Screenshot](path_to_screenshot)
 
-To install `edzy`, you can follow these steps:
+## Getting Started
 
-1. Clone the repository:
+### Prerequisites
+- Java Development Kit (JDK) installed on your system.
+- JavaFX SDK (if not bundled with your JDK).
 
+### Installation
+
+**Make sure you have java-jdk installed on your system** 
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/yourusername/edzy.git
+   cd edzy
+
+2. **To run**
     ```bash
-    git clone https://github.com/Sandesh2007/edzy.git
-    ```
+    java -jar edzy.jar 
 
-2. Navigate to the `edzy` directory:
-
-    ```bash
-    cd edzy
-    ```
-
-3. Run the installation script:
-
-    ```bash
-    sudo python3 install.py
-    ```
-    This will install the `edzy` package on your system.
-    
-4. To run edzy :
-
-    ```bash
-    edzy
-    ```
-
- -->
-
-This Readme will be updated soon 
+`You may get some warning. Don't worry it is normal`
