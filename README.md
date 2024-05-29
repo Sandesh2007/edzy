@@ -10,7 +10,7 @@ Edzy is a user-friendly application designed for efficient package installation 
 
 ## Screenshot
 ### Main Window:
-![Screenshot](https://github.com/Sandesh2007/edzy/blob/main/Screenshot%20edzy.png)
+![Screenshot](https://github.com/Sandesh2007/edzy/blob/main/Screenshots/Main.png)
 
 ### Debian:
 ![Debian](/home/sandesh/Pictures/Screenshots/Debian.png)
