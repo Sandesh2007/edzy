@@ -38,3 +38,17 @@ Edzy is a user-friendly application designed for efficient package installation 
 
 `You may get some warning. Don't worry it is normal`
 
+## Notes
+
+- Make sure you have the necessary permissions to install packages on your system.
+- The application might require administrative privileges to perform installations.
+
+### Contributing
+Contributions are welcome! Please fork the repository and submit pull requests.
+
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+### Acknowledgments
+- Inspired by eddy
+- Thanks to the JavaFX and Java communities for their valuable resources and support.
