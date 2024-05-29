@@ -6,7 +6,7 @@ Edzy is a user-friendly application designed for efficient package installation 
 ## Features
 - **Modern UI**: Built with JavaFX for a smoother and more responsive user interface.
 - **Package Installation**: Easily install `.deb` and `.rpm` packages on Debian and Fedora-based distributions.
-- **Inspired by Addy Popos**: The design and functionality are inspired by the popular Addy Popos tool.
+- **Inspired by eddy**: The design and functionality are inspired by the popular Addy Popos tool.
 
 ## Screenshot
 ### Main Window:
