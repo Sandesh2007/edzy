@@ -46,6 +46,7 @@ Edzy is a user-friendly application designed for efficient package installation 
 
 - Make sure you have the necessary permissions to install packages on your system.
 - The application might require administrative privileges to perform installations.
+- There are some crashing in Fedora when you try to install a `rpm` file with missing dependencies.
 
 ### Contributing
 Contributions are welcome! Please fork the repository and submit pull requests.
