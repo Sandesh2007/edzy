@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Eddy</h1>
+  <h1 align="center">edzy</h1>
   <h3 align="center">A debian and rpm package installer</h3>
 </div>
 <br/>
