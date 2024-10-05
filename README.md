@@ -33,7 +33,7 @@ Edzy is a user-friendly application designed for efficient package installation 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/edzy.git
+   git clone https://github.com/sandesh2007/edzy.git
    cd edzy
 
 2. **To run**
